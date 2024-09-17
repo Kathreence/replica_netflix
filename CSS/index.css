@@ -1,0 +1,11 @@
+@import url(./template/root.css);
+@import url(./template/main.css);
+@import url(./template/utility.css);
+
+/* components */
+@import url(./template/components/nav.css);
+@import url(./template/components/main.css);
+@import url(./template/components/banner.css);
+@import url(./template/components/domande.css);
+@import url(./template/components/footer.css);
+
